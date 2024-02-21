@@ -20,7 +20,7 @@ const BLOG = {
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'Zach Yin', // 您的昵称 例如 Zach Yin
   BIO: process.env.NEXT_PUBLIC_BIO || '一个喜欢捣鼓的社畜⛽️', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://zach-y.cn', // 网站地址
-  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Zach, 博客', // 网站关键词 英文逗号隔开
+  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Zach, 博客, Blog, ZachYin', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'L1m1ted@163.com', // 邮箱地址 例如L1m1ted@163.com
